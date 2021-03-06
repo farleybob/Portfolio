@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+}
+
+.welcome {
+  background: #FFAB91;
+  width: 100vw;
+  height: 100vh;
+}
+
+.surveyPic {
+  height: 800px;
+  width: auto;
+}
+
+.carousel-item {
+  
+  height: 800px;
+}
+
+.welcomeText {
+  font-size: 3rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.spacing {
+  padding-top: 60px;
+  margin-top: -60px;
+  padding: 160px 0 110px;
+}
+
+.contacts {
+  background: #FFAB91;
+  
+}
+
+.contactText {
+  padding: 125px 0px;
+}
+
+.contactBtn {
+  padding-bottom: 125px;
+}
+
+footer {
+  background: #FFAB91;
+}
