@@ -8,22 +8,20 @@ body {
   height: 100vh;
 }
 
-.surveyPic {
-  height: 800px;
-  width: auto;
-}
-
-.carousel-item {
-  
-  height: 800px;
-}
-
 .welcomeText {
   font-size: 3rem;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+.carouselImg {
+  
+}
+
+.carousel-item {
+ 
 }
 
 .spacing {
